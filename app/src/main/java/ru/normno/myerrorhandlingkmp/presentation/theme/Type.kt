@@ -1,4 +1,4 @@
-package ru.normno.myerrorhandlingkmp.ui.theme
+package ru.normno.myerrorhandlingkmp.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
