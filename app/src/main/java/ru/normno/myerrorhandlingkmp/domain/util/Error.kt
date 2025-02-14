@@ -1,5 +1,10 @@
 package ru.normno.myerrorhandlingkmp.domain.util
 
+data class RemoteErrorWithCode(
+    val error: Error,
+    val code: Int = 0,
+) : Error
+
 sealed interface Error {
     enum class Remote : Error {
         REQUEST_TIMEOUT_ERROR,
