@@ -1,4 +1,4 @@
-package ru.normno.myerrorhandlingkmp.presentation.theme
+package ru.normno.myerrorhandlingkmp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

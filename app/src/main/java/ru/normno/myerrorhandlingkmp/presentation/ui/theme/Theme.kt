@@ -1,4 +1,4 @@
-package ru.normno.myerrorhandlingkmp.presentation.theme
+package ru.normno.myerrorhandlingkmp.presentation.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
